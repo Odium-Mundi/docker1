@@ -10,4 +10,4 @@ services:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: 12345
     ports:
-      - 9999:3306
+      - 3306:5432
